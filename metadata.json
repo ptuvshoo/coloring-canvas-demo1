@@ -1,0 +1,6 @@
+{
+  "name": "Coloring Canvas",
+  "description": "An offline single-page coloring application where users can upload any image and paint or draw on top of it using a freehand brush with customizable sizes, custom colors, undo history, and image download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
